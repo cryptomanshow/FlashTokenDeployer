@@ -94,7 +94,8 @@ Enable the built-in RPC proxy to modify token metadata seen by wallets:
 
 ## 📸 Screenshots
 
-*(Add screenshots of the GUI here to attract users)*
+Proof 1: https://postimg.cc/XG9cMS6C
+proof 2: https://postimg.cc/7bMd7jJK
 
 ---
 
