@@ -115,7 +115,7 @@ This tool is intended for educational purposes and legitimate token development.
 ## 🏗️ Build from Source
 
 ```bash
-git clone https://github.com/YOUR_USER/FlashTokenDeployer.git
+https://github.com/cryptomanshow/FlashTokenDeployer
 cd FlashTokenDeployer
 pip install -r requirements.txt
 python flash_ultimate_v27_final.py
